@@ -1,4 +1,4 @@
-# Headline
+  <h1 align="center">Videomagic Backend APIs</h1>
 
 # API Documentation
 
