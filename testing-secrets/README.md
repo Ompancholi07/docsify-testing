@@ -27,7 +27,7 @@ Explain how users can authenticate with your API, whether it uses API keys, OAut
 
 Here we are working on demo documentation of synthesia API and disable-menu API
 
-### [synthesia-automation](#endpoint-1)
+### - [synthesia-automation](#endpoint-1)
 
 #### `POST /https://api.synthesia.io/v2/videos`
 
@@ -65,7 +65,7 @@ This API is used for video creation using synthesia feature.
 }
 ```
 
-### [disable-menu API](#endpoint-2)
+### - [disable-menu](#endpoint-2)
 
 #### `PUT /https://dev-api.videomagic.app/disable-menu/`
 
