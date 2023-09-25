@@ -1,4 +1,4 @@
-  <!-- <h1 align="center">Videomagic Backend APIs</h1>
+  <h1 align="center">Videomagic Backend APIs</h1>
 
 # API Documentation
 
@@ -104,8 +104,8 @@ This is just a sample documentation for our backend APIS. In the same way we can
 ---
 
 
- -->
- # Release Structure and Versioning
+
+ <!-- # Release Structure and Versioning 
 
 ## Overview
 
@@ -125,7 +125,7 @@ We follow the Semantic Versioning (SemVer) scheme for version numbers. A version
 - `MINOR`: Incremented for backward-compatible new features and enhancements.
 - `PATCH`: Incremented for backward-compatible bug fixes and minor improvements.
 
-Example: `1.2.3`
+Example: `V1.2.3`
 
 ## Release Types
 
@@ -155,11 +155,9 @@ Our release workflow includes the following stages:
 
 | Version | Release Date | Description |
 | ------- | ------------ | ----------- |
-| 1.0.0   | YYYY-MM-DD   | - Initial release |
-| 1.1.0   | YYYY-MM-DD   | - Added feature X<br>- Fixed issue Y |
-| 1.1.1   | YYYY-MM-DD   | - Fixed critical bug Z |
-| 2.0.0   | YYYY-MM-DD   | - Major redesign<br>- New API endpoints |
+| 1.0.0   | 2023-09-13   | - Initial release |
+| 1.1.0   | 2023-10-15   | - Added feature X<br>- Fixed issue Y |
 
 Please note that this document provides a high-level overview of our release structure and versioning. Detailed release notes and documentation should accompany each release to provide additional context and information.
 
-
+ -->
