@@ -29,7 +29,7 @@ Here we are working on demo documentation of synthesia API and disable-menu API
 
 ### [synthesia-automation](#endpoint-1)
 
-#### `POST https://api.synthesia.io/v2/videos`
+#### `POST /https://api.synthesia.io/v2/videos`
 
 This API is used for video creation using synthesia feature.
 
